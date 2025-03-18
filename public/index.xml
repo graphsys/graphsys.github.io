@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GraphSys &#39;25 on GraphSys</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in GraphSys &#39;25 on GraphSys</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Mar 2025 09:15:04 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>http://localhost:1313/call-for-papers/</link>
+      <pubDate>Tue, 18 Mar 2025 09:05:04 +0100</pubDate>
+      <guid>http://localhost:1313/call-for-papers/</guid>
+      <description>&lt;p&gt;Aligned with Euro-Par, the premier European conference addressing all facets of parallel and distributed processing, GraphSys&#39;25 is the first Workshop on Serverless, Extreme-Scale, and Sustainable Graph Processing Systems. GraphSys is a cross-disciplinary meeting venue focusing on state-of-the-art and emerging (future) graph processing systems.&lt;/p&gt;&#xA;&lt;p&gt;The workshop is designed for researchers, practitioners, and students interested in sustainable graph processing. Participants from academia, industry, (government) research labs, and nonprofit organizations are encouraged to attend and contribute to the GraphSys discussions and collaborations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organizers and Committee</title>
+      <link>http://localhost:1313/organizers-and-committee/</link>
+      <pubDate>Tue, 18 Mar 2025 09:05:28 +0100</pubDate>
+      <guid>http://localhost:1313/organizers-and-committee/</guid>
+      <description>&lt;h1 id=&#34;organizers&#34;&gt;Organizers&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/jmrozanec/&#34;&gt;Jože Martin Rožanec&lt;/a&gt;, University of Twente, Netherlands / Jožef Stefan Institute, Slovenia&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tizianodematteis.github.io/&#34;&gt;Tiziano De Matteis&lt;/a&gt;, Vrije Universiteit Amsterdam, The Netherlands&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;program-committee-in-progress&#34;&gt;Program Committee (in progress):&lt;/h2&gt;&#xA;&lt;h3 id=&#34;general-chairs&#34;&gt;General chairs:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/radu-prodan-182812b1/&#34;&gt;Prof.dr.ir. Radu Prodan&lt;/a&gt;, University of Innsbruck, Austria&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/aiosup/&#34;&gt;Prof.dr.ir. Alexandru Iosup&lt;/a&gt;, Vrije Universiteit Amsterdam, The Netherlands&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;pc-chairs&#34;&gt;PC chairs&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dr. Jože Martin Rožanec&lt;/li&gt;&#xA;&lt;li&gt;Dr. Tiziano de Matteis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;pc-members&#34;&gt;PC members&lt;/h3&gt;&#xA;&lt;p&gt;To be announced soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/program/</link>
+      <pubDate>Tue, 18 Mar 2025 09:05:19 +0100</pubDate>
+      <guid>http://localhost:1313/program/</guid>
+      <description>&lt;p&gt;To be shared soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keynotes</title>
+      <link>http://localhost:1313/keynotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/keynotes/</guid>
+      <description>&lt;p&gt;To be announced soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Previous Editions</title>
+      <link>http://localhost:1313/previous-editions/</link>
+      <pubDate>Tue, 18 Mar 2025 09:15:04 +0100</pubDate>
+      <guid>http://localhost:1313/previous-editions/</guid>
+      <description>&lt;h1 id=&#34;graphsys-24&#34;&gt;GraphSys &amp;lsquo;24&lt;/h1&gt;&#xA;&lt;p&gt;The Workshop website is available &lt;a href=&#34;https://sites.google.com/view/graphsys24/home&#34;&gt;here&lt;/a&gt;. The accepted papers were published at the &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3629527.3651435&#34;&gt;ICPE Proceedings&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;graphsys-23&#34;&gt;GraphSys &amp;lsquo;23&lt;/h1&gt;&#xA;&lt;p&gt;The Workshop website is available &lt;a href=&#34;https://sites.google.com/view/graphsys23/home&#34;&gt;here&lt;/a&gt;. The accepted papers were published at the &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3578245.3585328&#34;&gt;ICPE Proceedings&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
