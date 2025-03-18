@@ -1,8 +1,0 @@
-{{ $author:= site.Data.author }}
-{{ if (index site.Data site.Language.Lang).author }}
-  {{ $author = (index site.Data site.Language.Lang).author }}
-{{ end }}
-
-<div class="container-fluid home" id="home">
-This is our new home
-</div>

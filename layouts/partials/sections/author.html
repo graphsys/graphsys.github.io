@@ -1,8 +1,0 @@
-{{ $sectionID := replace (lower .section.name) " " "-"  }}
-{{ if .section.id }}
-  {{ $sectionID = .section.id }}
-{{ end }}
-
-<div class="container anchor p-lg-5 about-section" id="{{ $sectionID }}">
-  This is our home!
-</div>
