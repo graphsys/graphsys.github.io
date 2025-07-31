@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/joze/other/repo/research/graphsys-website-hugo",
+	"sourceRoot": "/home/tdematt/graphsys25/website-hugo",
 	"sources": [
 		"ananke/css/main.css"
 	],
