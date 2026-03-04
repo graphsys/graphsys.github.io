@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GraphSys &#39;26 on GraphSys</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.graphsys.com/</link>
     <description>Recent content in GraphSys &#39;26 on GraphSys</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.graphsys.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Papers</title>
-      <link>http://localhost:1313/call-for-papers/</link>
+      <link>https://www.graphsys.com/call-for-papers/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/call-for-papers/</guid>
+      <guid>https://www.graphsys.com/call-for-papers/</guid>
       <description>&lt;p&gt;Aligned with &lt;a href=&#34;https://2026.euro-par.org/&#34;&gt;Euro-Par 2026&lt;/a&gt;, the premier European conference addressing all facets of parallel and distributed processing, &lt;strong&gt;GraphSys &amp;lsquo;26&lt;/strong&gt; is the Fourth Workshop on Serverless, Extreme-Scale, and Sustainable Graph Processing Systems. GraphSys is a cross-disciplinary meeting venue focusing on state-of-the-art and emerging (future) graph processing systems, with an emphasis on &lt;strong&gt;causality and temporal graphs&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The workshop is designed for researchers, practitioners, and students interested in sustainable graph processing. Participants from academia, industry, government research labs, and nonprofit organizations are encouraged to attend and contribute to the GraphSys discussions and collaborations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Challenges</title>
-      <link>http://localhost:1313/challenges/</link>
+      <link>https://www.graphsys.com/challenges/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/challenges/</guid>
+      <guid>https://www.graphsys.com/challenges/</guid>
       <description>&lt;div class=&#34;mw8 center&#34;&gt;&#xA;  &lt;div class=&#34;bg-washed-blue dark-blue pa3 pa4-ns br2 mb4&#34;&gt;&#xA;    &lt;p class=&#34;f5 f4-ns ma0&#34;&gt;&#xA;      GraphSys &#39;26 also features &lt;strong&gt;three high-impact challenges&lt;/strong&gt; that steer research toward causal and temporal reasoning in parallel and distributed systems.&#xA;      We invite submissions that push the boundaries of the field – whether through foundational vision papers, the release of novel datasets, benchmarks, or rigorous&#xA;      academic and industrial advancements addressing our three core challenges. Extended abstracts (2 pages) addressing one or more of the challenges are welcome&#xA;      in addition to full and short papers.&#xA;    &lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizers and Committee</title>
-      <link>http://localhost:1313/organizers-and-committee/</link>
+      <link>https://www.graphsys.com/organizers-and-committee/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/organizers-and-committee/</guid>
-      <description>&lt;h2 class=&#34;tc&#34;&gt;Organizers&lt;/h2&gt;&#xA;&lt;div class=&#34;mw8 center&#34;&gt;&#xA;&lt;div class=&#34;flex-ns flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;w-100 pa3&#34;&gt;&#xA;  &lt;div class=&#34;ba b--moon-gray br2 bg-white pa3 pa4-ns flex items-center&#34;&gt;&#xA;    &lt;div class=&#34;mr3 mr4-ns&#34; style=&#34;width:6rem;min-width:6rem;&#34;&gt;&#xA;      &lt;img src=&#34;http://localhost:1313/images/organizers/joze.png&#34; alt=&#34;Jože Martin Rožanec&#34; class=&#34;db w-100 br-100&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;flex-auto&#34;&gt;&#xA;      &lt;h3 class=&#34;f4 mt0 mb1&#34;&gt;&#xA;        &lt;a href=&#34;https://www.linkedin.com/in/jmrozanec/&#34; class=&#34;link dark-blue&#34;&gt;&#xA;          Jože Martin Rožanec&#xA;        &lt;/a&gt;&#xA;      &lt;/h3&gt;&#xA;      &lt;p class=&#34;f6 gray mt0 mb2&#34;&gt;&#xA;        Jožef Stefan Institute, Slovenia&#xA;      &lt;/p&gt;&#xA;      &lt;p class=&#34;f6 lh-copy mt0 mb2&#34;&gt;&#xA;        Jože Rožanec received his Ph.D. from the Jožef Stefan International Postgraduate School and performed post-doctoral research at the University of Twente.&#xA;        He is a researcher at the Jožef Stefan Institute. His principal research interests relate to machine learning (time series, graphs, causality, and applications),&#xA;        with a special interest in scalable and distributed systems. He has served as a committee member in multiple international conferences (e.g., ESWC, ISWC, ECAI, EuroPar).&#xA;        He is an ACM and IEEE member and a member of the ACM Europe Technology Policy Committee.&#xA;      &lt;/p&gt;</description>
+      <guid>https://www.graphsys.com/organizers-and-committee/</guid>
+      <description>&lt;h2 class=&#34;tc&#34;&gt;Organizers&lt;/h2&gt;&#xA;&lt;div class=&#34;mw8 center&#34;&gt;&#xA;&lt;div class=&#34;flex-ns flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;w-100 pa3&#34;&gt;&#xA;  &lt;div class=&#34;ba b--moon-gray br2 bg-white pa3 pa4-ns flex items-center&#34;&gt;&#xA;    &lt;div class=&#34;mr3 mr4-ns&#34; style=&#34;width:6rem;min-width:6rem;&#34;&gt;&#xA;      &lt;img src=&#34;https://www.graphsys.com/images/organizers/joze.png&#34; alt=&#34;Jože Martin Rožanec&#34; class=&#34;db w-100 br-100&#34; /&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;flex-auto&#34;&gt;&#xA;      &lt;h3 class=&#34;f4 mt0 mb1&#34;&gt;&#xA;        &lt;a href=&#34;https://www.linkedin.com/in/jmrozanec/&#34; class=&#34;link dark-blue&#34;&gt;&#xA;          Jože Martin Rožanec&#xA;        &lt;/a&gt;&#xA;      &lt;/h3&gt;&#xA;      &lt;p class=&#34;f6 gray mt0 mb2&#34;&gt;&#xA;        Jožef Stefan Institute, Slovenia&#xA;      &lt;/p&gt;&#xA;      &lt;p class=&#34;f6 lh-copy mt0 mb2&#34;&gt;&#xA;        Jože Rožanec received his Ph.D. from the Jožef Stefan International Postgraduate School and performed post-doctoral research at the University of Twente.&#xA;        He is a researcher at the Jožef Stefan Institute. His principal research interests relate to machine learning (time series, graphs, causality, and applications),&#xA;        with a special interest in scalable and distributed systems. He has served as a committee member in multiple international conferences (e.g., ESWC, ISWC, ECAI, EuroPar).&#xA;        He is an ACM and IEEE member and a member of the ACM Europe Technology Policy Committee.&#xA;      &lt;/p&gt;</description>
     </item>
     <item>
       <title>Program</title>
-      <link>http://localhost:1313/program/</link>
+      <link>https://www.graphsys.com/program/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/program/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Program&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The detailed program for GraphSys 2026 will be published once the workshop schedule is finalized (by &lt;strong&gt;July 24, 2026&lt;/strong&gt;).&lt;/p&gt;&#xA;&lt;p&gt;GraphSys 2026 will be co-located with &lt;a href=&#34;https://2026.euro-par.org/&#34;&gt;EuroPar 2026&lt;/a&gt; in &lt;strong&gt;Pisa, Italy&lt;/strong&gt;. &lt;strong&gt;Workshop dates: August 24–25, 2026.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The workshop will run a single track with one keynote, paper presentations, flash presentations and posters for the &lt;a href=&#34;http://localhost:1313/challenges/&#34;&gt;three challenges&lt;/a&gt; (causal discovery in HPC and datacenter management; causal understanding of quantum uncertainty; causal hardware–software co-design), and one panel.&lt;/p&gt;</description>
+      <guid>https://www.graphsys.com/program/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Program&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The detailed program for GraphSys 2026 will be published once the workshop schedule is finalized (by &lt;strong&gt;July 24, 2026&lt;/strong&gt;).&lt;/p&gt;&#xA;&lt;p&gt;GraphSys 2026 will be co-located with &lt;a href=&#34;https://2026.euro-par.org/&#34;&gt;EuroPar 2026&lt;/a&gt; in &lt;strong&gt;Pisa, Italy&lt;/strong&gt;. &lt;strong&gt;Workshop dates: August 24–25, 2026.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The workshop will run a single track with one keynote, paper presentations, flash presentations and posters for the &lt;a href=&#34;https://www.graphsys.com/challenges/&#34;&gt;three challenges&lt;/a&gt; (causal discovery in HPC and datacenter management; causal understanding of quantum uncertainty; causal hardware–software co-design), and one panel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynotes</title>
-      <link>http://localhost:1313/keynotes/</link>
+      <link>https://www.graphsys.com/keynotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/keynotes/</guid>
+      <guid>https://www.graphsys.com/keynotes/</guid>
       <description>&lt;p&gt;GraphSys 2026 will feature invited keynotes from leading researchers and practitioners in graph processing systems.&lt;/p&gt;&#xA;&lt;p&gt;Keynote speakers and titles will be announced as they are confirmed. Please check back later for updates.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supporting Projects and Initiatives</title>
-      <link>http://localhost:1313/supporting-projects/</link>
+      <link>https://www.graphsys.com/supporting-projects/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/supporting-projects/</guid>
-      <description>&lt;p&gt;The GraphSys workshop is supported by the following organizations and projects:&lt;/p&gt;&#xA;&lt;div class=&#34;mw8 center&#34;&gt;&#xA;&lt;h2 id=&#34;supporting-organizations&#34;&gt;Supporting organizations&lt;/h2&gt;&#xA;&lt;div class=&#34;flex-ns flex-wrap justify-center&#34;&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa2&#34;&gt;&#xA;  &lt;div class=&#34;ba b--moon-gray br2 pa3 tc bg-white h-100 flex flex-column justify-between&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/logos/hipeac.png&#34; alt=&#34;HiPEAC&#34; class=&#34;w-60 center mb3&#34; /&gt;&#xA;    &lt;h3 class=&#34;f5 mb2&#34;&gt;HiPEAC&lt;/h3&gt;&#xA;    &lt;p class=&#34;f6 lh-copy&#34;&gt;&#xA;      High Performance, Edge And Cloud computing network for researchers, industry, and policy makers in Europe.&#xA;    &lt;/p&gt;&#xA;    &lt;a href=&#34;https://www.hipeac.net/&#34; class=&#34;link dim dark-blue f6&#34;&gt;Visit website&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa2&#34;&gt;&#xA;  &lt;div class=&#34;ba b--moon-gray br2 pa3 tc bg-white h-100 flex flex-column justify-between&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/logos/adra.png&#34; alt=&#34;ADRA&#34; class=&#34;w-60 center mb3&#34; /&gt;&#xA;    &lt;h3 class=&#34;f5 mb2&#34;&gt;ADRA&lt;/h3&gt;&#xA;    &lt;p class=&#34;f6 lh-copy&#34;&gt;&#xA;      The AI, Data and Robotics Association bringing together industry and research in AI, data, and robotics in Europe.&#xA;    &lt;/p&gt;</description>
+      <guid>https://www.graphsys.com/supporting-projects/</guid>
+      <description>&lt;p&gt;The GraphSys workshop is supported by the following organizations and projects:&lt;/p&gt;&#xA;&lt;div class=&#34;mw8 center&#34;&gt;&#xA;&lt;h2 id=&#34;supporting-organizations&#34;&gt;Supporting organizations&lt;/h2&gt;&#xA;&lt;div class=&#34;flex-ns flex-wrap justify-center&#34;&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa2&#34;&gt;&#xA;  &lt;div class=&#34;ba b--moon-gray br2 pa3 tc bg-white h-100 flex flex-column justify-between&#34;&gt;&#xA;    &lt;img src=&#34;https://www.graphsys.com/images/logos/hipeac.png&#34; alt=&#34;HiPEAC&#34; class=&#34;w-60 center mb3&#34; /&gt;&#xA;    &lt;h3 class=&#34;f5 mb2&#34;&gt;HiPEAC&lt;/h3&gt;&#xA;    &lt;p class=&#34;f6 lh-copy&#34;&gt;&#xA;      High Performance, Edge And Cloud computing network for researchers, industry, and policy makers in Europe.&#xA;    &lt;/p&gt;&#xA;    &lt;a href=&#34;https://www.hipeac.net/&#34; class=&#34;link dim dark-blue f6&#34;&gt;Visit website&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;w-100 w-50-m w-33-l pa2&#34;&gt;&#xA;  &lt;div class=&#34;ba b--moon-gray br2 pa3 tc bg-white h-100 flex flex-column justify-between&#34;&gt;&#xA;    &lt;img src=&#34;https://www.graphsys.com/images/logos/adra.png&#34; alt=&#34;ADRA&#34; class=&#34;w-60 center mb3&#34; /&gt;&#xA;    &lt;h3 class=&#34;f5 mb2&#34;&gt;ADRA&lt;/h3&gt;&#xA;    &lt;p class=&#34;f6 lh-copy&#34;&gt;&#xA;      The AI, Data and Robotics Association bringing together industry and research in AI, data, and robotics in Europe.&#xA;    &lt;/p&gt;</description>
     </item>
     <item>
       <title>Previous Editions</title>
-      <link>http://localhost:1313/previous-editions/</link>
+      <link>https://www.graphsys.com/previous-editions/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/previous-editions/</guid>
+      <guid>https://www.graphsys.com/previous-editions/</guid>
       <description>&lt;h1 id=&#34;graphsys-25&#34;&gt;GraphSys &amp;lsquo;25&lt;/h1&gt;&#xA;&lt;p&gt;The GraphSys 2025 edition website is available at &lt;a href=&#34;https://2025.graphsys.com/&#34;&gt;2025.graphsys.com&lt;/a&gt;. The workshop was co-located with EuroPar 2025 in Dresden, Germany.&lt;/p&gt;&#xA;&lt;h1 id=&#34;graphsys-24&#34;&gt;GraphSys &amp;lsquo;24&lt;/h1&gt;&#xA;&lt;p&gt;The Workshop website is available &lt;a href=&#34;https://sites.google.com/view/graphsys24/home&#34;&gt;here&lt;/a&gt;. The accepted papers were published at the &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3629527.3651435&#34;&gt;ICPE Proceedings&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;graphsys-23&#34;&gt;GraphSys &amp;lsquo;23&lt;/h1&gt;&#xA;&lt;p&gt;The Workshop website is available &lt;a href=&#34;https://sites.google.com/view/graphsys23/home&#34;&gt;here&lt;/a&gt;. The accepted papers were published at the &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3578245.3585328&#34;&gt;ICPE Proceedings&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
