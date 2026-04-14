@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -34,10 +34,10 @@
     
 
     
-      <link rel="canonical" href="https://www.graphsys.com/challenges/">
+      <link rel="canonical" href="http://localhost:1313/challenges/">
     
 
-    <meta property="og:url" content="https://www.graphsys.com/challenges/">
+    <meta property="og:url" content="http://localhost:1313/challenges/">
   <meta property="og:site_name" content="GraphSys">
   <meta property="og:title" content="Challenges">
   <meta property="og:description" content="GraphSys &#39;26 Euro-Par workshop challenges: causal discovery in HPC and datacenter management, quantum uncertainty, causal hardware-software co-design. Euro-Par 2026, parallel and distributed computing.">
@@ -50,7 +50,7 @@
   <meta itemprop="description" content="GraphSys &#39;26 Euro-Par workshop challenges: causal discovery in HPC and datacenter management, quantum uncertainty, causal hardware-software co-design. Euro-Par 2026, parallel and distributed computing.">
   <meta itemprop="datePublished" content="2026-03-02T00:00:00+01:00">
   <meta itemprop="dateModified" content="2026-03-02T00:00:00+01:00">
-  <meta itemprop="wordCount" content="430">
+  <meta itemprop="wordCount" content="1085">
   <meta itemprop="keywords" content="Euro-Par,2026,,EuroPar,workshop,,causal,discovery,,HPC,,datacenter,,quantum,uncertainty,,hardware-software,co-design,,causality,,machine,learning,,GraphSys,,parallel,computing">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Challenges">
@@ -195,7 +195,13 @@
         </p>
       </div>
       <div>
-        <h3 class="f6 ttu tracked mb2">Example datasets</h3>
+        <h3 class="f6 ttu tracked mb2">Papers of interest</h3>
+        <ul class="f6 lh-copy pl3 mb3">
+          <li>Gonzalez, D. Z., Meyer, M., &amp; Muller, O. (2025). Causal Machine Learning Approaches for Modelling Data Center Heat Recovery: A Physical Testbed Study. ACM SIGENERGY Energy Informatics Review, 5(2), 4-10.</li>
+          <li>Bi, T., Yang, Z., Pan, Y., Zhang, Y., Ma, M., Jiang, X., ... &amp; Wang, P. (2024, August). Faultinsight: Interpreting hyperscale data center host faults. In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 141-152).</li>
+          <li>Prakash, P., Hong Enriquez, R. P., Serebryakov, S., Grant, D., Brewer, W., &amp; Milojicic, D. (2025, November). From Exploration to Explanation: ML-Driven Causal Discovery for Datacenter Reliability at Scale. In Proceedings of the SC'25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (pp. 997-1002).</li>
+        </ul>
+        <h3 class="f6 ttu tracked mb2">Datasets of interest</h3>
         <ul class="f6 lh-copy pl3 mb0">
           <li>
             <a href="https://www.nature.com/articles/s41597-023-02174-3" class="link dark-blue">
@@ -228,8 +234,20 @@
         <p class="f6 lh-copy mb3">
           We focus on how <strong>processing information from quantum computations</strong> could be leveraged to discover causal relationships between
           <strong>qubit failures</strong> and the <strong>events that lead to them</strong>. Modeling these as causal structures rather than purely statistical phenomena
-          can guide better error mitigation, calibration, and system design.
+          can guide better noise/error mitigation, calibration, and system design.
         </p>
+        <h3 class="f6 ttu tracked mb2">Papers of interest</h3>
+        <ul class="f6 lh-copy pl3 mb3">
+          <li>Shaib, A., Naim, M. H., Fouda, M. E., Kanj, R., &amp; Kurdahi, F. (2023). Efficient noise mitigation technique for quantum computing. Scientific Reports, 13(1), 3912.</li>
+          <li>Nguyen, H. Q., Nguyen, X. B., Chen, S. Y. C., Churchill, H., Borys, N., Khan, S. U., &amp; Luu, K. (2025). Diffusion-inspired quantum noise mitigation in parameterized quantum circuits. Quantum Machine Intelligence, 7(1), 55.</li>
+          <li>Wang, H., Gu, J., Ding, Y., Li, Z., Chong, F. T., Pan, D. Z., &amp; Han, S. (2022, July). Quantumnat: quantum noise-aware training with noise injection, quantization and normalization. In Proceedings of the 59th ACM/IEEE design automation conference (pp. 1-6).</li>
+          <li>Placidi, L., Williams, I., Rinaldi, E., Mills, D., Cirstoiu, C., Eccles, V., &amp; Duncan, R. (2026). Deep Learning Approaches to Quantum Error Mitigation. arXiv preprint arXiv:2601.14226.</li>
+        </ul>
+        <h3 class="f6 ttu tracked mb2">Datasets of interest</h3>
+        <ul class="f6 lh-copy pl3 mb0">
+          <li><a href="https://sites.google.com/itbhu.ac.in/quan/home" class="link dark-blue">QuaN</a> - a collection of specially designed datasets for exploring the impact of noise in quantum machine learning and other applications. The work focuses on transforming clean datasets into noisy counterparts across diverse domains, including MNIST handwritten digits datasets, Medical MNIST, IRIS datasets, and Mobile Health datasets. The dataset is created using noise from classical and quantum domains. Classical noise includes Gaussian distribution, salt and pepper method, random perturbation, class imbalance, and missing values, while quantum noise includes bitflip, phase flip, and amplitude damping, among others.</li>
+          <li><a href="https://github.com/eperrier/QDataSet" class="link dark-blue">QDataSet</a> - a quantum dataset designed to facilitate the training and development of QML algorithms. QDataSet comprises 52 high-quality publicly available datasets derived from simulations of one- and two-qubit systems evolving in the presence and/or absence of noise.</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -248,9 +266,24 @@
         <p class="f6 lh-copy mb3">
           We focus on understanding <strong>causal relationships between hardware design</strong> (components and layout) and
           <strong>how these affect processing capabilities at the software level</strong>. Rather than treating hardware and software in isolation, we aim to foster work
-          that explicitly models and reasons about cause–effect links: for example, how layout, memory hierarchy, or interconnect design causally influence throughput,
-          latency, or energy. This perspective is still underexplored and can be highly innovative, bringing together architecture, systems, and causal reasoning communities.
+          that explicitly models and reasons about cause-effect links: for example, how layout, memory hierarchy, or interconnect design causally influence throughput,
+          latency, or energy. <strong>We also welcome AI4EDA research, focused on a particular stage of this domain (not only co-design), that includes causal components to
+          achieve its goals.</strong> This perspective is still underexplored and can be highly innovative, bringing together architecture, systems, and causal reasoning communities.
         </p>
+        <h3 class="f6 ttu tracked mb2">Papers of interest</h3>
+        <ul class="f6 lh-copy pl3 mb3">
+          <li>El Sayed, Z., Wang, Z., Selmani, H., Knechtel, J., Sinanoglu, O., &amp; Alrahis, L. (2025). Graph neural networks for integrated circuit design, reliability, and security: Survey and tool. ACM Computing Surveys, 58(4), 1-44.</li>
+          <li>Mirhoseini, A., Goldie, A., Yazgan, M., Jiang, J. W., Songhori, E., Wang, S., ... &amp; Dean, J. (2021). A graph placement methodology for fast chip design. Nature, 594(7862), 207-212.</li>
+          <li>Cheng, C. K., Kahng, A. B., Kang, I., &amp; Wang, L. (2018). Replace: Advancing solution quality and routability validation in global placement. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 38(9), 1717-1730.</li>
+          <li>Chen, H., Qi, Z., He, Y., Xu, Z., Qin, J., &amp; Zhao, T. (2025, August). GranuTopoFormer: Multi-Granular Embedding and Topology-Aware Transformer for Analog Circuit Parameter Prediction. In 2025 IEEE 17th International Conference on Electronic Measurement &amp; Instruments (ICEMI) (pp. 384-389). IEEE.</li>
+          <li>Xu, K., Schwachhofer, D., Blocklove, J., Polian, I., Domanski, P., Pfluger, D., ... &amp; Li, B. (2025, September). Large Language Models (LLMs) for Electronic Design Automation (EDA): Special Session Paper. In 2025 IEEE 38th International System-on-Chip Conference (SOCC) (pp. 1-6). IEEE.</li>
+          <li>Zadeh, D. N., &amp; Elamien, M. B. (2025). Generative AI for analog integrated circuit design: Methodologies and applications. IEEE Access.</li>
+        </ul>
+        <h3 class="f6 ttu tracked mb2">Projects of interest</h3>
+        <ul class="f6 lh-copy pl3 mb0">
+          <li><a href="https://github.com/google-research/circuit_training" class="link dark-blue">Google AlphaChip</a> - an open-source framework for generating chip floorplans with distributed deep reinforcement learning.</li>
+          <li><a href="https://github.com/The-OpenROAD-Project/OpenROAD" class="link dark-blue">OpenROAD</a> - the leading open-source, foundational application for semiconductor digital design. The OpenROAD flow delivers an Autonomous, No-Human-In-Loop (NHIL) flow, 24 hour turnaround from RTL-GDSII for rapid design exploration and physical design implementation.</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -275,7 +308,7 @@
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://www.graphsys.com/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
     &copy;  GraphSys 2026 
   </a>
     <div><div class="ananke-socials"></div>
