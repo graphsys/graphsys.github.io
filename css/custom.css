@@ -1,3 +1,8 @@
 p {
     text-align: justify;
 }
+
+/* Flex children need min-width:0 so long names/affiliations wrap instead of overflowing cards */
+.min-w-0 {
+    min-width: 0;
+}
